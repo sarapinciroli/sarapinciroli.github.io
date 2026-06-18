@@ -13,9 +13,3 @@ I am Teaching Assistant for the following courses:
 - Mathematical Analysis - Module II (30543)
 
 
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
