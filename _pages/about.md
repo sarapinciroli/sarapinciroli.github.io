@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in Statistics and Computer Science at Bocconi University, Milan. I based my previous projects and studies on the field of Probability and Statistics Theory. 
+I am currently a PhD student in Statistics and Computer Science at [Bocconi University](https://www.unibocconi.it/) in Milan, Italy.
 
-I'm graduated in Mathematics at the University of Pavia. I attended the Erasmus Traineeship program to write my Master's Thesis abroad at the Heriot Watt University of Edinbrugh. 
+My current research interests include random graph theory, federated learning, distributed learning, and differential privacy.
+I am working under the supervision of Botond Szabo.
+
+I graduated in Mathematics from the University of Pavia. I also attended the Erasmus Traineeship program at Heriot-Watt University in Edinburgh, where I worked on my Master's thesis about SDEs and Interacting Diffusions.
 
 You can contact me at the address sara.pinciroli@phd.unibocconi.it
